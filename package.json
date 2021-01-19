@@ -1,0 +1,23 @@
+{
+  "name": "ping-pong-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolwer1nE/ping-pong-test.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolwer1nE/ping-pong-test/issues"
+  },
+  "homepage": "https://github.com/Wolwer1nE/ping-pong-test#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "parcel": "^1.12.3"
+  }
+}
